@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Test proj pepe",
+  "applicationTitle": "Test proj pepe",
+  "items": [
+    {
+      "link": null,
+      "menuName": "test-proj-pepe",
+      "caption": "TestProjPepe",
+      "title": "TestProjPepe",
+      "children": [
+        {
+          "link": "i-i-s-test-proj-pepe-new-class1-l",
+          "menuName": null,
+          "caption": "New class1",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-test-proj-pepe-new-class2-l",
+          "menuName": null,
+          "caption": "New class2",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
